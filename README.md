@@ -19,3 +19,8 @@ galaxy_name (varchar, maximum length 50, not null)
 description (text)
 number_of_stars (integer)
 Then, drop the Galaxies table
+/////////////////
+create table Planets(planet_Id INT,planet_name VARCHAR(50) NOT NULL,diametr DECIMAL,distance_from DECIMAL NOT NULL);
+create table Planets(planet_Id INT,planet_name VARCHAR(50) NOT NULL,diametr DECIMAL,distance_from DECIMAL NOT NULL);
+create table Planets(planet_Id INT,planet_name VARCHAR(50) NOT NULL,diametr DECIMAL,distance_from DECIMAL NOT NULL);
+create table Planets(planet_Id INT,planet_name VARCHAR(50) NOT NULL,diametr DECIMAL,distance_from DECIMAL NOT NULL);
